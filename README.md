@@ -3,7 +3,7 @@
 Proje geliştirilebilecek çok alan var. Bence bir programı program yapan içerisinde bulunan detaylardır örnek verilmek gerekrise sayı istenilen yere char değer girilmesinin engellenmesi gibi bu küçük detaylar bu program içerisinde eksik olduğunu hatırlıyorum. Onun harici program ile ilgili büyük bir detay hatırlamıyorum yapmamın üzerinden 2 seneden fazla zaman geçti diyebilirim.
 
 Dilediğiniz gibi projelerinizde kullanabilirsiniz. 
-mysqlWorkbench Kullanıp hazırlanmış SQL exportunu bulamadım belki dosyalar içerisinde mevcuttur. dosya dışarısında bulunan JAVA adlı dosya nın ne olduğu hakkında bir fikrim yok dosya içerisindeydi ekledim.
+SQL tarafında mysqlWorkbench ile hazırlanıldığı ve  SQL exportunun var olmadığı yazıyor. belki dosyalar içerisinde mevcuttur. dosya dışarısında bulunan JAVA adlı dosya nın ne olduğu hakkında bir fikrim yok dosya içerisindeydi ekledim.
 Rapor Dosyam içerisinde bulabildiğim bir kaç görseli de alt tarafa ekliyorum.
 # İlgili Görseller
 
