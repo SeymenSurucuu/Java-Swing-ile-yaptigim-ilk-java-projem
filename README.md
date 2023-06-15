@@ -4,7 +4,7 @@ Proje geliştirilebilecek çok alan var. Bence bir programı program yapan içer
 
 Dilediğiniz gibi projelerinizde kullanabilirsiniz. 
 SQL tarafında mysqlWorkbench ile hazırlanıldığı ve  SQL exportunun var olmadığı yazıyor. belki dosyalar içerisinde mevcuttur. dosya dışarısında bulunan JAVA adlı dosya nın ne olduğu hakkında bir fikrim yok dosya içerisindeydi ekledim.
-Rapor Dosyam içerisinde bulabildiğim bir kaç görseli de alt tarafa ekliyoru
+Rapor Dosyam içerisinde bulabildiğim bir kaç görseli de alt tarafa ekliyorum
 # İlgili Görseller
 
 ![image](https://github.com/SeymenSurucuu/Java-Swing-ile-yaptigim-ilk-java-projem/assets/131146184/528e5d67-4490-4986-b2a0-26d9242b1071)
